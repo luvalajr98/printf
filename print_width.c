@@ -1,5 +1,3 @@
-File name: print_widht.c
-
 #include "main.h"
 
 /**
